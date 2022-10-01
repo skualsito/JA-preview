@@ -1,0 +1,19 @@
+{
+  "name": "ja-preview",
+  "version": "1.0.0",
+  "description": "Preview creator for kits css documentation",
+  "main": "JA-preview.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skualsito/JA-preview.git"
+  },
+  "author": "Juan Almada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skualsito/JA-preview/issues"
+  },
+  "homepage": "https://github.com/skualsito/JA-preview#readme"
+}
